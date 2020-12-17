@@ -1,0 +1,41 @@
+body{
+    background: #f7c9cb;
+    border: dashed; border-color:#ef7b6c;
+    text-align:center;
+    color: #bb2e3f;
+    font-size: 17px;
+}
+.border{
+    width:500px;
+}
+h1{
+    color: #fe4a49;
+    font-family: 'Xanh Mono', monospace;
+}
+p{ 
+    color: #d13742;
+    font-family: 'Dosis', sans-serif;
+}
+.list{
+    text-align: left;
+    color: #bb2e3f;
+    font-family: 'Architects Daughter', cursive;
+    
+}
+.lost{
+    color: #d36060;
+    text-align: right;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+a{
+    color: #BF3638;
+}
+.yolk{
+    height:400px;
+}
+.hear{
+    width: 100px;
+}
+.heart{
+    height:200px;
+}
